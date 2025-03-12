@@ -1,0 +1,51 @@
+carrier,carrier_name,airport,airport_name,latitude_N,,,longitude_W,,,arr_flights,arr_del15,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+DL,Delta Air Lines Inc.,LGA,"New York, NY: LaGuardia",40,46,30,73,52,30,2093,470,35119,12062,2278,10845,0,9934
+9E,Endeavor Air Inc.,LGA,"New York, NY: LaGuardia",40,46,30,73,52,30,2584,419,36033,7301,3922,14614,22,10174
+UA,United Air Lines Inc.,IAD,"Washington, DC: Washington Dulles International",38,56,40,77,27,21,2590,528,36623,15003,666,5933,0,15021
+AA,American Airlines Inc.,LGA,"New York, NY: LaGuardia",40,46,30,73,52,30,1635,442,36638,11005,829,9316,27,15461
+OO,SkyWest Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",32,53,49,97,2,17,2256,330,37518,20102,9543,2654,82,5137
+OH,PSA Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",35,12,50,80,56,35,3632,580,39022,9718,3372,6677,259,18996
+WN,Southwest Airlines Co.,AUS,"Austin, TX: Austin - Bergstrom International",30,11,40,97,40,12,3005,826,41411,10388,1375,8963,146,20539
+F9,Frontier Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",36,4,48,115,9,8,1299,534,42694,11537,1446,11079,0,18632
+AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",33,56,33,118,24,29,2406,545,42893,15197,1196,6148,90,20262
+F9,Frontier Airlines Inc.,MCO,"Orlando, FL: Orlando International",28,25,46,81,18,32,1658,566,42959,12516,728,7738,0,21977
+YX,Republic Airline,LGA,"New York, NY: LaGuardia",40,46,30,73,52,30,3998,538,43602,12320,1367,15698,0,14217
+YX,Republic Airline,EWR,"Newark, NJ: Newark Liberty International",40,41,33,74,10,7,2656,487,44906,7327,4648,22794,0,10137
+DL,Delta Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",40,47,18,111,58,40,4171,587,47126,22163,2452,3535,15,18961
+WN,Southwest Airlines Co.,BNA,"Nashville, TN: Nashville International",36,7,36,86,40,55,3820,897,47366,14500,551,5817,753,25745
+B6,JetBlue Airways,MCO,"Orlando, FL: Orlando International",28,25,46,81,18,32,1562,622,49219,17163,1313,8485,78,22180
+AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",38,51,8,77,2,16,2378,590,50760,14840,3114,5989,42,26775
+MQ,Envoy Air,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",32,53,49,97,2,17,4173,627,51529,10557,11412,9709,62,19789
+DL,Delta Air Lines Inc.,JFK,"New York, NY: John F. Kennedy International",40,38,23,73,46,44,2359,689,51614,18573,867,18264,0,13910
+WN,Southwest Airlines Co.,HOU,"Houston, TX: William P Hobby",29,38,44,95,16,44,3976,943,52786,12813,1439,8329,71,30134
+UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",37,37,8,122,22,30,3774,740,54073,23066,1133,6572,0,23302
+B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",26,4,21,80,9,10,1631,573,54197,18682,618,14555,429,19913
+OO,SkyWest Airlines Inc.,DEN,"Denver, CO: Denver International",39,51,42,104,40,23,4325,629,54864,35635,5779,3704,24,9722
+DL,Delta Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",42,12,45,83,21,12,5101,717,56212,27632,1954,6301,0,20325
+WN,Southwest Airlines Co.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",33,26,3,112,0,42,5114,1155,56625,14905,1154,5220,276,35070
+AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",47,26,56,122,18,34,5921,1185,56922,18096,1767,13754,298,23007
+WN,Southwest Airlines Co.,MCO,"Orlando, FL: Orlando International",28,25,46,81,18,32,3677,1043,58349,15192,1363,12592,229,28973
+NK,Spirit Air Lines,LAS,"Las Vegas, NV: Harry Reid International",36,4,48,115,9,8,2524,853,63458,11422,1065,34939,141,15891
+NK,Spirit Air Lines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",26,4,21,80,9,10,2062,773,63731,13579,1598,30396,209,17949
+HA,Hawaiian Airlines Inc.,HNL,"Honolulu, HI: Daniel K Inouye International",21,19,7,157,55,21,2654,1253,63760,19859,169,15489,72,28171
+DL,Delta Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",44,52,55,93,13,18,5365,782,67170,38227,1871,7117,40,19915
+AA,American Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",39,52,19,75,14,28,2958,712,67617,22299,1082,7599,227,36410
+WN,Southwest Airlines Co.,DAL,"Dallas, TX: Dallas Love Field",32,50,50,96,51,6,5751,1292,71180,16855,1837,17908,63,34517
+OO,SkyWest Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",41,58,43,87,54,17,3906,689,72278,36078,9675,13677,43,12805
+WN,Southwest Airlines Co.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",39,10,31,76,40,6,5728,1359,72802,14925,2719,15477,111,39570
+WN,Southwest Airlines Co.,MDW,"Chicago, IL: Chicago Midway International",41,47,10,87,45,9,6201,1490,77273,21379,1614,9749,415,44116
+B6,JetBlue Airways,BOS,"Boston, MA: Logan International",42,21,47,71,0,23,3993,942,77459,30006,828,11339,134,35152
+NK,Spirit Air Lines,MCO,"Orlando, FL: Orlando International",28,25,46,81,18,32,2569,971,78705,19557,2594,29722,205,26627
+AA,American Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",33,26,3,112,0,42,4536,843,81283,33469,1958,6427,102,39327
+AA,American Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",41,58,43,87,54,17,4146,883,81515,27834,3870,14148,73,35590
+AA,American Airlines Inc.,MIA,"Miami, FL: Miami International",25,47,36,80,17,26,4228,1080,86825,22503,3542,23216,318,37246
+WN,Southwest Airlines Co.,DEN,"Denver, CO: Denver International",39,51,42,104,40,23,7420,1667,88133,21185,2085,16996,283,47584
+UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",29,59,4,95,20,29,5267,1234,88482,26053,3589,23807,0,35033
+UA,United Air Lines Inc.,DEN,"Denver, CO: Denver International",39,51,42,104,40,23,7088,1268,102229,32201,4796,21577,27,43628
+WN,Southwest Airlines Co.,LAS,"Las Vegas, NV: Harry Reid International",36,4,48,115,9,8,6909,2023,107487,19158,2534,39917,55,45823
+UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",41,58,43,87,54,17,6548,1210,112329,38381,8010,23433,0,42505
+B6,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",40,38,23,73,46,44,4067,1394,128747,43501,2860,27595,235,54556
+UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",40,41,33,74,10,7,6267,1555,139864,38515,4774,47760,0,48815
+DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",33,38,12,84,25,41,18151,2801,209652,99263,8893,25927,332,75237
+AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",35,12,50,80,56,35,9837,2299,213481,71111,9554,26392,315,106109
+AA,American Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",32,53,49,97,2,17,12990,2937,285464,101537,19482,38118,574,125753
